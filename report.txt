@@ -1,0 +1,4 @@
+===== USER ACTIVITY REPORT =====
+user123: 4 actions
+user456: 3 actions
+user789: 2 actions
